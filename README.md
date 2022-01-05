@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ShawtyPablo
+- 👀 I’m interested in IA and API
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on the world and the community of dev
+- 📫 How to reach me? @pablomarq_ on instagram
